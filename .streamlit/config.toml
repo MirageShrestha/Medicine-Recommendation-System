@@ -1,0 +1,32 @@
+[theme]
+primaryColor = "#2196F3"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8f9fa"
+textColor = "#000000"
+font = "Inter"
+
+[server]
+enableCORS = true
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[global]
+developmentMode = false
+
+[logger]
+level = "info"
+messageFormat = "%(asctime)s - %(message)s"
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = true
+
+[runner]
+magicEnabled = true
+fastReruns = true
+
+[deprecation]
+showfileUploaderEncoding = false
+showPyplotGlobalUse = false 
