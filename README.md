@@ -1,6 +1,11 @@
 
 # Medicine Recommendation System
 
+![image](https://github.com/user-attachments/assets/5406441a-75f7-40a8-b17c-ea1d21fd3585)
+![image](https://github.com/user-attachments/assets/6a5aab00-1a53-4369-b6ad-b4a599a946b8)
+![image](https://github.com/user-attachments/assets/8ef98606-5a3b-4fc8-be87-3ba524dffa2a)
+
+
 This is an intelligent healthcare recommendation system that combines machine learning with medical knowledge to provide personalized health advice. The system is built using Streamlit for the frontend interface and incorporates several key features:
 
 ## Key Features
